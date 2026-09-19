@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Disul Githmin 👋
+
+First-year BSc (Hons) Computer Science student in Sri Lanka, exploring the
+intersection of cybersecurity, networking, and AI.
+
+**Currently:**
+- Learning Java, comfortable with Python basics
+- Building out a home lab (Jellyfin + NAS) — starting with network segmentation
+- Into FOSS — I'd rather understand and configure my tools than treat them as black boxes
 
 <!--
 **disul-git/disul-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
