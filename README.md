@@ -1,24 +1,21 @@
-### Hi, I'm Disul Githmin 👋
+# Hi, I'm Disul Githmin 👋
 
-First-year BSc (Hons) Computer Science student in Sri Lanka, exploring the
-intersection of cybersecurity, networking, and AI.
+I'm a first-year BSc (Hons) Computer Science undergraduate in Sri Lanka, currently exploring the intersection of **cybersecurity, artificial intelligence, and computer networking**.
 
-**Currently:**
-- Learning Java, comfortable with Python basics
-- Building out a home lab (Jellyfin + NAS) — starting with network segmentation
-- Into FOSS — I'd rather understand and configure my tools than treat them as black boxes
+I'm building my programming foundations with **Python** and **Java**, while gaining hands-on experience through personal projects and a small home lab.
 
-<!--
-**disul-git/disul-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm interested in
 
-Here are some ideas to get you started:
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- 🌐 Computer Networking
+- 🖥️ Systems & Infrastructure
+- 🐧 Free and Open Source Software (FOSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently learning
+
+- Python
+- Java
+- Computer Science fundamentals
+- Networking and systems
+- Git & GitHub
