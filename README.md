@@ -16,6 +16,7 @@ I'm building my programming foundations with **Python** and **Java**, while gain
 
 - Python
 - Java
+- Linux
 - Computer Science fundamentals
 - Networking and systems
 - Git & GitHub
