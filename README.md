@@ -4,7 +4,7 @@ I'm a first-year BSc (Hons) Computer Science undergraduate in Sri Lanka, current
 
 I'm building my programming foundations with **Python** and **Java**, while gaining hands-on experience through personal projects and a small home lab.
 
-## What I'm interested in
+## What I'm interested in,
 
 - 🔐 Cybersecurity
 - 🤖 Artificial Intelligence
