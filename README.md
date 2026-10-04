@@ -2,7 +2,7 @@
 
 I'm a first-year BSc (Hons) Computer Science undergraduate in Sri Lanka, currently exploring the intersection of **cybersecurity, artificial intelligence, and computer networking**.
 
-I'm building my programming foundations with **Python** and **Java**, while gaining hands-on experience through personal projects and a small home lab.
+I'm building my programming foundations with **Python** and **Java**, while gaining hands-on experience through personal projects.
 
 ## What I'm interested in
 
@@ -11,6 +11,12 @@ I'm building my programming foundations with **Python** and **Java**, while gain
 - 🌐 Computer Networking
 - 🖥️ Systems & Infrastructure
 - 🐧 Free and Open Source Software (FOSS)
+
+- | 🔐 Cybersecurity | 🤖 Artificial Intelligence |
+|---|---|
+| 🌐 Computer Networking | 🖥️ Systems & Infrastructure |
+|---|---|
+|🐧 Free and Open Source Software (FOSS)|
 
 ## What I'm currently learning
 
