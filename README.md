@@ -8,16 +8,15 @@ I'm building my programming foundations with **Python** and **Java**, while gain
 
 <table>
   <tr>
-    <td>🔐 <strong>Cybersecurity</strong></td>
-    <td>🤖 <strong>Artificial Intelligence</strong></td>
+    <td width="50%">🔐 <strong>Cybersecurity</strong></td>
+    <td width="50%">🤖 <strong>Artificial Intelligence</strong></td>
   </tr>
   <tr>
     <td>🌐 <strong>Computer Networking</strong></td>
     <td>🖥️ <strong>Systems &amp; Infrastructure</strong></td>
   </tr>
   <tr>
-    <td>🐧 <strong>Free and Open Source Software (FOSS)</strong></td>
-    <td></td>
+    <td colspan="2">🐧 <strong>Free and Open Source Software (FOSS)</strong></td>
   </tr>
 </table>
 
