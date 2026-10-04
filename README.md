@@ -6,17 +6,20 @@ I'm building my programming foundations with **Python** and **Java**, while gain
 
 ## What I'm interested in
 
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence
-- 🌐 Computer Networking
-- 🖥️ Systems & Infrastructure
-- 🐧 Free and Open Source Software (FOSS)
-
-- | 🔐 Cybersecurity | 🤖 Artificial Intelligence |
-|---|---|
-| 🌐 Computer Networking | 🖥️ Systems & Infrastructure |
-|---|---|
-|🐧 Free and Open Source Software (FOSS)|
+<table>
+  <tr>
+    <td>🔐 <strong>Cybersecurity</strong></td>
+    <td>🤖 <strong>Artificial Intelligence</strong></td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Computer Networking</strong></td>
+    <td>🖥️ <strong>Systems &amp; Infrastructure</strong></td>
+  </tr>
+  <tr>
+    <td>🐧 <strong>Free and Open Source Software (FOSS)</strong></td>
+    <td></td>
+  </tr>
+</table>
 
 ## What I'm currently learning
 
